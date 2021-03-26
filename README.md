@@ -1,2 +1,2 @@
 # uiuxcoffee
-A sweet blog UI UX related
+A sweet UI UX related blog
